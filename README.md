@@ -1,0 +1,3 @@
+Este projeto tem como objetivo exemplificar a utilização do feign para consumir uma api. Como exemplo iremos consumir a api do ibge para listagem de estados brasileiros, com um endpoint para a listagem de municípios por estado.
+
+This project aims to exemplify the use of feign to consume an api. As an example, we will consume the ibge api for listing Brazilian states, with an endpoint for listing municipalities by state.
